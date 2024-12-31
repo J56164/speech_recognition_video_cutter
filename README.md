@@ -6,7 +6,7 @@ This Python program cuts a given video at the timestamps with the word 'cut'.
 
 ## Why I made this
 
-I made this during the 2024 semester break because I was bored. Also, I wanted to make a personal project for once.
+I made this during the 2024 semester break because I was bored. Also, I wanted to finally make a personal project.
 
 ## Usage
 
